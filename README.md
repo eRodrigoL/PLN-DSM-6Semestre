@@ -50,5 +50,5 @@ Análise de relevância textual, ordenação de resultados por importância e id
 
 ## 📘 Arquivo de texto utilizado
 
-O repositório inclui o livro **"Ubirajara"** em formato `.txt`, disponível na pasta [`Livro Ubirajara/Ubirajara.txt`](./Livro%20Ubirajara/Ubirajara.txt).  
+O repositório inclui o livro **"Ubirajara"** em formato `.txt`, disponível na pasta [`Livro Ubirajara/Ubirajara.txt`](./LivroUbirajara/Ubirajara.txt).  
 Esse arquivo pode ser utilizado nos notebooks para práticas de leitura, tokenização e análise de texto longo.
