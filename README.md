@@ -90,3 +90,13 @@ Os arquivos estão organizados na pasta [`Aulas/`](./Aulas) e seguem uma progres
 
 O repositório inclui o livro **"Ubirajara"** em formato `.txt`, disponível na pasta [`LivroUbirajara/Ubirajara.txt`](./LivroUbirajara/Ubirajara.txt).  
 Esse arquivo é utilizado nos notebooks como material para práticas de leitura, tokenização, extração de informações e análise linguística.
+
+---
+
+## 👨‍💻 Sobre o Responsável Técnico
+
+Este repositório foi organizado por **E. Rodrigo L.** [linkedin.com/in/erodrigol](https://www.linkedin.com/in/erodrigol/), enquanto estudante de **Desenvolvimento de Software Multiplataforma** na Fatec Mauá.
+
+Todos os notebooks foram testados, comentados e estruturados para facilitar a leitura e a compreensão dos temas de PLN explorados ao longo da disciplina.
+
+🔗 Publicação no LinkedIn: [[github.com/eRodrigoL](https://www.linkedin.com/feed/update/urn:li:share:7339474955215998976/)]([https://github.com/eRodrigoL](https://www.linkedin.com/feed/update/urn:li:share:7339474955215998976/))
