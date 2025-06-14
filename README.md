@@ -54,6 +54,36 @@ Os arquivos estão organizados na pasta [`Aulas/`](./Aulas) e seguem uma progres
 **Técnicas de PLN:** Ranking de palavras, palavras-chave, métricas de importância.  
 **Observações:** Útil para sistemas de recomendação e motores de busca.
 
+------
+
+### [Aula 10 – Análise de Sentimentos com Naive Bayes](./Aulas/PLN_Aula_10_Analise_de_Sentimentos_com_Naive_Bayes.ipynb)
+**Objetivo:** Classificar avaliações como “Positivo” ou “Negativo” usando o classificador Naive Bayes.  
+**Técnicas de PLN:**  
+- Pré-processamento textual básico.  
+- Probabilidades a priori e condicionais.  
+- Suavização de Laplace.  
+**Observações:** Explicita o funcionamento interno do algoritmo com dicionários e contagem de palavras. Os comentários detalham passo a passo os cálculos de probabilidade.  
+
+---
+
+### [Aula 11 – Pipeline de Classificação com TF-IDF e Modelos Clássicos](./Aulas/PLN_Aula_11_Pipeline_de_Classificacao_de_Texto.ipynb)
+**Objetivo:** Criar um pipeline de classificação de textos com diferentes algoritmos supervisionados.  
+**Técnicas de PLN:**  
+- Vetorização com `TfidfVectorizer`.  
+- Treinamento com Naive Bayes, Regressão Logística e SVM.  
+- Validação cruzada e ajuste de hiperparâmetros com `GridSearchCV`.  
+**Observações:** O notebook demonstra como avaliar e comparar modelos com métricas, matriz de confusão e previsão de categorias com `predict_proba`. Também traz uma função reutilizável para testar novos textos.  
+
+---
+
+### [Aula 12 – Classificação de Sentimentos com LSTM](./Aulas/PLN_Aula_12_Classificacao_de_Sentimentos_com_LSTM.ipynb)
+**Objetivo:** Aplicar redes neurais recorrentes (LSTM) na análise de sentimentos.  
+**Técnicas de PLN:**  
+- Tokenização e padding de sequências.  
+- Criação de modelo com camada `Embedding` e `LSTM`.  
+- Avaliação do modelo com métricas e matriz de confusão.  
+**Observações:** Há forte foco na etapa de construção da rede neural e em como adaptar frases novas ao modelo já treinado. Inclui função para previsão de sentimentos em textos não vistos.  
+
 ---
 
 ## 📘 Arquivo de texto utilizado
